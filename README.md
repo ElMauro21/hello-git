@@ -9,7 +9,7 @@
 
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 
-> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
+> ##### Si consideras útil el cursote, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
 ## Lo que aprenderás
 
